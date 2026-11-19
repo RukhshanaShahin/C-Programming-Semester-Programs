@@ -25,7 +25,7 @@ This repository contains my semester C programming programs and solutions to 10 
 | 7 | Binary Search | binary\_search.c |
 | 8 | Move Zeroes | move\_zeroes.c |
 | 9 | Running Sum of 1D Array | running\_sum.c |
-| 10 | Contains Duplicate | contains\_duplicate.c |
+| 10 | single number | single\_number.c |
 
 ## Language Used
 
